@@ -1,4 +1,4 @@
-This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
+Esta página está disponible como un sitio web fácil de leer en [ https://ebookfoundation.github.io/] (https://ebookfoundation.github.io/free-programming-books/) .
 Lista de recursos gratis
 # List of Free Learning Resources In Many Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
